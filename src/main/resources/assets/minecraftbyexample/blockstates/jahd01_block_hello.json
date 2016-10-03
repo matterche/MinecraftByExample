@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "minecraftbyexample:jahd01_block_hello_model" }
+    }
+}

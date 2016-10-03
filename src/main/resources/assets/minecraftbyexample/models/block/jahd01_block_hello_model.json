@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftbyexample:blocks/jahd01_block_hello_face",
+    "up": "minecraftbyexample:blocks/jahd01_block_hello_face",
+    "north": "minecraftbyexample:blocks/jahd01_block_hello_face",
+    "east": "minecraftbyexample:blocks/jahd01_block_hello_face",
+    "south": "minecraftbyexample:blocks/jahd01_block_hello_face",
+    "west": "minecraftbyexample:blocks/jahd01_block_hello_face",
+    "particle": "minecraftbyexample:blocks/jahd01_block_hello_particle"
+  }
+}
